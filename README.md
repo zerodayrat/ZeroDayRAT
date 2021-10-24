@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saeed
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Everything
+- 👀 I’m interested in DevSecOps
+- 🌱 I do Bug Bounty Hunting
 
 <!---
 Fang7w7/Fang7w7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
