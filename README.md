@@ -8,11 +8,9 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 - 👯 I’m looking to collaborate on Website Penetration Testing Projects, Bug Bounty Hunting, CTF development or maybe on some other good projects.
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
-&nbsp;
 <br>
-<br>
-<br>
-**Languages and Tools:**
+
+### Languages and Tools :
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="20" src="https://i1.wp.com/golangdojo.com/wp-content/uploads/2021/02/Golang-Dojo-Subscribe-Horizontal.png?fit=1920%2C1080&ssl=1"></code>
@@ -24,6 +22,7 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br>
 
 ![SAEED's github stats](https://github-readme-stats.vercel.app/api?username=zerodayrat&show_icons=true&hide_border=true)
 
