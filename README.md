@@ -2,10 +2,10 @@
 
 I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 
-**Talking about Personal Stuff:**
+### Talking about Personal Stuff:
 
 - 🌱 I’m currently a Bug Hunter 
-- 👯 I’m looking to collaborate on Website Penetration Testing Projects, Bug Bounty Hunting, CTF development or maybe on some other good projects.
+- 👯 I’m looking to collaborate on Bug Bounty Hunting, CTF development or maybe on some other good projects.
 - ⚡ Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
 <br>
