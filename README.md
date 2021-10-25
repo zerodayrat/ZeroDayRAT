@@ -24,9 +24,11 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br>
+
+### Github Stats :
 
 ![SAEED's github stats](https://github-readme-stats.vercel.app/api?username=zerodayrat&show_icons=true&hide_border=true)
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayrat&hide=css,shell">
 
 </samp><br>
 
