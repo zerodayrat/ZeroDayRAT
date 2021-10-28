@@ -6,7 +6,6 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 
 - 👨‍💻 I’m currently a Bug Hunter 
 - ⚡ I’m looking to collaborate in Bug Bounty Hunting, CTF development or maybe on some other good projects.
-- 🐧 Eat :arrows_counterclockwise: Sleep :arrows_counterclockwise: Hack :arrows_counterclockwise: Repeat 
 
 <br>
 
