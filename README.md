@@ -30,7 +30,7 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 <!--<img width="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayrat&hide=css,shell">-->
 
 </samp><br>
-### Contact :
+##### Contacts :
 [![Instagram](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/zerodayrat)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zerodayrat)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/zerodayrat)
