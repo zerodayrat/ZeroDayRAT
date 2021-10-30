@@ -35,6 +35,6 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zerodayrat)
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/zerodayrat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/zerodayrat)
-[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5-rod7DAnKByoZmFjNZ4vg)
+<!--[![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/)-->
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://app.hackthebox.eu/profile/9082)
 [![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/FangX)
