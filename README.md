@@ -4,7 +4,7 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 
 ### Talking about Personal Stuff:
 
-- 👨‍💻 I love programming and Linux based operating systems. 
+- 👨‍💻 I'm interested in DevSecOps.
 - ⚡ I’m looking forward to collaborate in Bug Bounty Hunting, CTF development or maybe on some other good projects.
 
 <br>
