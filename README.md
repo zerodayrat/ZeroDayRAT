@@ -27,7 +27,7 @@ I'm Saeed, a Student, CTF Developer and a Bug Bounty Hunter.
 ### Github Stats :
 
 ![SAEED's github stats](https://github-readme-stats.vercel.app/api?username=zerodayrat&show_icons=true&hide_border=true)
-<!--<img width="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayrat&hide=css,shell">-->
+<!--<img width="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodayrat&hide=css">-->
 
 </samp><br>
 ##### Contacts :
