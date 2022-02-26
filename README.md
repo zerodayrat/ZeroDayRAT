@@ -111,4 +111,7 @@
 <img src="https://img.shields.io/badge/-zerodayrat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:behesti4053@gmail.com" />
 <img src="https://img.shields.io/badge/-zerodayrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zerodayrat/" />
 <img src="https://img.shields.io/badge/-zerodayrat-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/zerodayrat" />
+<a href="#"><img src="https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00"/></a>
+<a href="https://tryhackme.com/p/FangX"> <img src="https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white"/></a>
+
 </p>
