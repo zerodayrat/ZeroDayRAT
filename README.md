@@ -50,7 +50,7 @@
 <img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=pink&color=black">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=purple&color=black">
 <img alt="C" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=light-blue&color=black">
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<!-- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> -->
 
     
 </p>
@@ -58,7 +58,7 @@
 #####  Databases 🗄
 
 <p>
-	<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=blue&color=black">
    
 </p>
