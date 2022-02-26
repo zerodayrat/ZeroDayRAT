@@ -98,7 +98,7 @@
 
 <p align="center">
 <img src = "https://activity-graph.herokuapp.com/graph?username=zerodayrat&theme=react-dark" width="90%" align = "center"> 
-<img src="" alt="snake" align="center">
+<img src="https://github.com/zerodayrat/ZeroDayRAT/tree/main/img/stat.svg" alt="snake" align="center">
 </p>
 
 <hr>
