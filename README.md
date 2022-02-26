@@ -87,14 +87,14 @@
 
 <hr>
 
-## 📊 Github Stats 
+### 📊 Github Stats 
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=zerodayrat&show_icons=true&theme=tokyonight" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=zerodayrat&theme=tokyonight" />
 </p>
 
-## 📚 Contributions
+### 📚 Contributions
 
 <p align="center">
 <img src = "https://activity-graph.herokuapp.com/graph?username=zerodayrat&theme=react-dark" width="90%" align = "center"> 
