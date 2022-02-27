@@ -45,10 +45,10 @@
 #####  Frameworks and libraries 🧰
 
 <p>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&logoColor=18db4f"/>
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&color=black">
 <img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=pink&color=black">
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=purple&color=black">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=7c12f8&color=black">
 <img alt="C" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=light-blue&color=black">
 <!-- <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> -->
 
