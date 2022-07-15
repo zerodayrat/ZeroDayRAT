@@ -60,6 +60,7 @@
 <p>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=red&color=black"/>
 <!-- <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=blue&color=black"> -->
 </p>
 
@@ -109,7 +110,7 @@
  
 <!-- <img src="https://img.shields.io/badge/-zerodayrat-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/" /> -->
 <!-- <img src="https://img.shields.io/badge/-zerodayrat-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:" /> -->
-<!-- <img src="https://img.shields.io/badge/-saeeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saeeed/" />-->
+<img src="https://img.shields.io/badge/-saeeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zerodayrat/" />
 <img src="https://img.shields.io/badge/-zerodayrat-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/zerodayrat" />
 <!-- <a href="#"><img src="https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00"/></a> -->
 <a href="https://tryhackme.com/p/FangX"> <img src="https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white"/></a>
